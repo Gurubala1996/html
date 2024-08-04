@@ -1,0 +1,9 @@
+.Products_main
+{
+    background-color:white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 20px;
+}

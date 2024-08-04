@@ -1,0 +1,18 @@
+.Product_added
+{
+    width: 250px;
+    height: 320px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Product_added div
+{
+    padding: 5px;
+}
+.product_img
+{
+    width: 150px;
+    height: 180px;
+}
